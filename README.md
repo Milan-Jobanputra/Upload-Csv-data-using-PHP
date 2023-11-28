@@ -22,4 +22,6 @@ Skip the first 5 rows
 
 Execute the query
     
-Close the file handle
+Close the file handle 
+
+DOnt forgot to change your Database connection parameters ;)
